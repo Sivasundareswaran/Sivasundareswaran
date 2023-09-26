@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sivasundareswaran
-- 🌱 I’m currently learning c++
+- 🌱 C++ software professional 
 - 📫 How to reach me sivakathir1998@gmail.com
 
 <!---
